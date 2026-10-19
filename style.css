@@ -1,10 +1,30 @@
 :root {
-  --bs-primary: #2563eb;  /* blue */
-  --bs-success: #15803d;  /* green */
-  --bs-warning: #d97706;  /* orange */
-  --bs-info:    #0ea5e9;  /* sky */
-  --bs-body-bg: #f9fafb;
   --bs-body-color: #111827;
+}
+
+.list {
+  background-color: #F47B20;
+}
+.nums {
+  background-color: #FFD200;
+}
+.filter {
+  background-color: #F79762;
+}
+.each {
+  background-color: #9C5708;
+}
+.uppercase {
+  background-color: #8E101c;
+}
+.reverse {
+  background-color: #9F1006;
+}
+.random {
+  background-color: #455C4F;
+}
+.length {
+  background-color: #EBE3D9;
 }
 
 body {
